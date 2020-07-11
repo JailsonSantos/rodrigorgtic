@@ -1,9 +1,9 @@
-### Hi there 👋
+### Hi there, I'm Rodrigo Gonçalves Santana 👋
 
 <!--
 **rodrigorgtic/rodrigorgtic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+A Full-Stack Engineer and UI/UX who is always learning. I love technology, coffee and applying knowledge to solve problems, create solutions and impact lives.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
