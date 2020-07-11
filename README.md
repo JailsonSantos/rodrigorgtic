@@ -1,4 +1,4 @@
-### Hey there, 👋
+### Hey there 👋
 
 **I'm Rodrigo Gonçalves Santana 👨‍🚀**. I develop websites, mobile apps and APIs. Currently, my stack is: 
 
