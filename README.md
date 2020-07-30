@@ -18,7 +18,7 @@ The only certainty I have is that learning is an endless road and I want to stay
 
 
 <a href="https://www.linkedin.com/in/rodrigo-gon%C3%A7alves-santana/" target="_blank">
-  <img src="https://www.comeet.com/resources/wp-content/uploads/2019/03/linkedin-logo.png" width="50"/>
+  <img src="https://www.comeet.com/resources/wp-content/uploads/2019/03/linkedin-logo.png" width="150"/>
 </a>
 
 
