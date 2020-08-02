@@ -5,6 +5,7 @@
 :computer: web sites with **ReactJs** <br/>
 :iphone: mobile applications with **React Native** <br/>
 :satellite: API with **NodeJs** <br/>
+:floppy_disk: Database: **Postgres**, **Mongo**, **Redis**, **Firebase (Cloud Firestore/Real Time)**, **SQL Server**, **MySQL** <br/>
 
 I also love **UX Design** :heart_eyes:. I like to create beautiful interfaces to provide the user with a pleasant experience. To create prototypes I use **Figma**, but I also know how to work with **Adobe XD**.
 
