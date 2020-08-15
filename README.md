@@ -23,7 +23,6 @@ The only certainty I have is that learning is an endless road and I want to stay
 </a>
 
 
-[![See my Linkedin](https://img.shields.io/badge/See my Linkedin-My Linkedin-green?labelColor=0072b1&style=social&logo=Linkedin&logoColor=FFF&link=https://www.linkedin.com/in/rodrigo-gon%C3%A7alves-santana/)](https://www.linkedin.com/in/rodrigo-gon%C3%A7alves-santana/)
-
+<a href="https://www.linkedin.com/in/rodrigo-gon%C3%A7alves-santana/"><img src="https://img.shields.io/badge/See my Linkedin-My Linkedin-green?labelColor=0072b1&style=social&logo=Linkedin&logoColor=FFF&link=https://www.linkedin.com/in/rodrigo-gon%C3%A7alves-santana/" alt="See my Linkedin" /></a>
 
 
