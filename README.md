@@ -17,10 +17,5 @@ I have also worked with **C#**, **SQL Server**, **PHP**, **MySQL**, **Python** a
 The only certainty I have is that learning is an endless road and I want to stay on it. So, I love technology, coffee and applying knowledge to solve problems, **create solutions and impact lives**. :purple_heart:
 
 
-#### See my Linkedin
-<a href="https://www.linkedin.com/in/rodrigo-gon%C3%A7alves-santana/" target="_blank">
-  <img src="https://www.comeet.com/resources/wp-content/uploads/2019/03/linkedin-logo.png" width="120"/>
-</a>
 
-
-<a href="https://www.linkedin.com/in/rodrigo-gon%C3%A7alves-santana/"><img src="https://img.shields.io/badge/My Linkedin-My Linkedin-green?labelColor=0072b1&style=social&logo=Linkedin&logoColor=#FFF&link=https://www.linkedin.com/in/rodrigo-gon%C3%A7alves-santana/" alt="My Linkedin" /></a>
+[![See my Linkedin](https://img.shields.io/badge/See my Linkedin-0072b1?style=for-the-badge&logo=Linkedin&logoColor=#FFF&link=https://www.linkedin.com/in/rodrigo-gon%C3%A7alves-santana/)](https://www.linkedin.com/in/rodrigo-gon%C3%A7alves-santana/)
