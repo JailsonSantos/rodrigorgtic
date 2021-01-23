@@ -7,6 +7,11 @@
 :satellite: API with **NodeJs** <br/>
 :floppy_disk: Database: **Postgres**, **Mongo**, **Redis**, **Firebase (Cloud Firestore/Real Time)**, **SQL Server**, **MySQL** <br/>
 
+I am graduated in Information Systems, master in education, postgraduate in Project Management PMI (Project Management Institute). :mortar_board:
+
+:memo: I have certifications: Microsoft, Oracle and Autodesk.
+
+
 I also love **UX Design** :heart_eyes:. I like to create beautiful interfaces to provide the user with a pleasant experience. To create prototypes I use **Figma**, but I also know how to work with **Adobe XD**.
 
 
