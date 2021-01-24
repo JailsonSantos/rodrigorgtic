@@ -18,7 +18,7 @@ But, I also used it in projects:
 &nbsp;
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" height="35px"/>
 &nbsp;
-<img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" height="45px"/>
+<img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" height="35px"/>
 &nbsp;
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" height="55px"/>
 &nbsp;
