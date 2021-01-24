@@ -2,8 +2,8 @@
 
 **I'm Rodrigo Gonçalves Santana 👨‍🚀**. I develop websites, mobile apps and APIs. Currently my stack is: 
 
-:computer: web sites with **ReactJs** <br/>
-:iphone: mobile applications with **React Native** <br/>
+:computer: Web front-end development with **ReactJs** <br/>
+:iphone: Mobile applications with **React Native** <br/>
 :satellite: API with **NodeJs** <br/>
 :floppy_disk: Database: **Postgres**, **Mongo**, **Redis**, **Firebase (Cloud Firestore/Real Time)**, **SQL Server**, **MySQL** <br/>
 
