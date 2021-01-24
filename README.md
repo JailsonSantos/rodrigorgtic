@@ -4,11 +4,8 @@
 
 :computer: Web front-end development with **ReactJs** <br/>
 :iphone: Mobile applications for Android and iOS with **React Native** 
-<img src="https://www.creativefreedom.co.uk/wp-content/uploads/2013/03/00-android-4-0_icons.png" height="30px"/>
-&nbsp;  
-<img src="https://www.freepnglogos.com/uploads/apple-logo-png/apple-logo-icon-transparent-png-svg-vector-3.png" height="30px"/>
+<img src="https://www.creativefreedom.co.uk/wp-content/uploads/2013/03/00-android-4-0_icons.png" height="30px"/>&nbsp;<img src="https://www.freepnglogos.com/uploads/apple-logo-png/apple-logo-icon-transparent-png-svg-vector-3.png" height="30px"/>
 <br/> 
-
 :satellite: API with **NodeJs** <br/>
 :floppy_disk: Database: **Postgres**, **Mongo**, **Redis**, **Firebase (Cloud Firestore/Real Time)**, **SQL Server**, **MySQL** <br/>
 
