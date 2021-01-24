@@ -34,7 +34,9 @@ But, I also used it in projects:
 &nbsp;
 <img src="https://img.icons8.com/color/452/microsoft-sql-server.png" height="35px" />   
 &nbsp;  
-<img src="https://seeklogo.com/images/F/figma-logo-E4E21D3AEA-seeklogo.com.png" height="35px" />   
+<img src="https://seeklogo.com/images/F/figma-logo-E4E21D3AEA-seeklogo.com.png" height="35px" />
+&nbsp;  
+<img src="https://ioiodesign.com/wp-content/uploads/2020/10/Photoshop-logo.png" height="35px" />    
 &nbsp;
 <img src="https://img1.gratispng.com/20180415/pjw/kisspng-adobe-xd-user-interface-design-computer-icons-adob-adobe-5ad2fa7cce9f02.2569342615237761248463.jpg" height="35px" />   
 &nbsp;
