@@ -33,6 +33,8 @@
 <img src="https://img1.gratispng.com/20180415/pjw/kisspng-adobe-xd-user-interface-design-computer-icons-adob-adobe-5ad2fa7cce9f02.2569342615237761248463.jpg" height="30px" />   
 &nbsp;
 <img src="https://sdtimes.com/wp-content/uploads/2018/04/1_tfZa4vsI6UusJYt_fzvGnQ.png" height="30px" />   
+&nbsp;
+<img src="https://exportcode.com/wp-content/uploads/2018/08/c.png" height="30px" />    
 </p>
 
 I am graduated in Information Systems, master in education, postgraduate in Project Management PMI (Project Management Institute). :mortar_board:
