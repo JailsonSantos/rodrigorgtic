@@ -1,6 +1,6 @@
 ### Hey there 👋
 
-**I'm Rodrigo Gonçalves Santana 👨‍🚀**. I develop websites, mobile apps and APIs. Currently my stack is: 
+**I'm Rodrigo Gonçalves Santana 👨‍🚀**. I'm a developer websites, mobile apps and APIs. Currently my stack is: 
 
 :computer: Web front-end development with **ReactJs** <br/>
 :iphone: Mobile applications for Android and iOS with **React Native** <br/> 
