@@ -39,7 +39,7 @@ But, I also used it in projects:
 <img src="https://exportcode.com/wp-content/uploads/2018/08/c.png" height="30px" />    
 </p>
 
-I am graduated in Information Systems, master in education, postgraduate in Project Management PMI (Project Management Institute). :mortar_board:
+:mortar_board: I am graduated in Information Systems, master in education, postgraduate in Project Management PMI (Project Management Institute). 
 
 :memo: I have certifications: Microsoft, Oracle and Autodesk.
 
