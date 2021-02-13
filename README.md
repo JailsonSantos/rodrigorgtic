@@ -43,6 +43,8 @@ But, I also used it in projects:
 <img src="https://sdtimes.com/wp-content/uploads/2018/04/1_tfZa4vsI6UusJYt_fzvGnQ.png" height="35px" />   
 &nbsp;
 <img src="https://exportcode.com/wp-content/uploads/2018/08/c.png" height="35px" />   
+&nbsp;
+<img src="https://code-maven.com/img/python.png" height="35px" />   
 </p>
 
 :mortar_board: I am graduated in Information Systems, master in education, postgraduate in Project Management PMI (Project Management Institute). 
