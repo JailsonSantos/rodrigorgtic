@@ -44,7 +44,7 @@ But, I also used it in projects:
 &nbsp;
 <img src="https://exportcode.com/wp-content/uploads/2018/08/c.png" height="35px" />   
 &nbsp;
-<img src="http://assets.stickpng.com/images/5848152fcef1014c0b5e4967.png" height="35px" />   
+<img src="https://images-na.ssl-images-amazon.com/images/I/51hAaVLEwAL._AC_SX522_.jpg" height="35px" />   
 </p>
 
 :mortar_board: I am graduated in Information Systems, master in education, postgraduate in Project Management PMI (Project Management Institute). 
