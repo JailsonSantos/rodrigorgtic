@@ -44,7 +44,7 @@ But, I also used it in projects:
 &nbsp;
 <img src="https://exportcode.com/wp-content/uploads/2018/08/c.png" height="35px" />   
 &nbsp;
-<img src="https://p.kindpng.com/picc/s/159-1595772_transparent-python-logo-hd-png-download.png" height="35px" />   
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.stickpng.com%2Fimg%2Ficons-logos-emojis%2Ftech-companies%2Fpython-logo&psig=AOvVaw3-AG7CCXidf3-EVgciBzQq&ust=1613333223680000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLCOjeLU5-4CFQAAAAAdAAAAABAO" height="35px" />   
 </p>
 
 :mortar_board: I am graduated in Information Systems, master in education, postgraduate in Project Management PMI (Project Management Institute). 
