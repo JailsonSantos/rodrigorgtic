@@ -10,7 +10,7 @@
 But, I also used it in projects: 
 
 <p>
-<img src="https://www.creativefreedom.co.uk/wp-content/uploads/2013/03/00-android-4-0_icons.png" height="35px"/>
+<img src="https://image.flaticon.com/icons/png/512/226/226770.png" height="35px"/>
 &nbsp;
 <img src="https://www.freepnglogos.com/uploads/apple-logo-png/apple-logo-icon-transparent-png-svg-vector-3.png" height="35px"/>  
 &nbsp;  
