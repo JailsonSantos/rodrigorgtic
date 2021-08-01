@@ -42,7 +42,7 @@ But, I also used it in projects:
 &nbsp;
 <img src="https://sdtimes.com/wp-content/uploads/2018/04/1_tfZa4vsI6UusJYt_fzvGnQ.png" height="35px" />   
 &nbsp;
-<img src="https://exportcode.com/wp-content/uploads/2018/08/c.png" height="35px" />   
+<img src="https://raw.githubusercontent.com/learnbr/csharp/master/csharp-logo.png" height="35px" />   
 &nbsp;
 <img src="https://code-maven.com/img/python.png" height="35px" />   
 </p>
