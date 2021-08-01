@@ -44,7 +44,7 @@ But, I also used it in projects:
 &nbsp;
 <img src="https://raw.githubusercontent.com/learnbr/csharp/master/csharp-logo.png" height="35px" />   
 &nbsp;
-<img src="https://code-maven.com/img/python.png" height="35px" />   
+<img src="https://bestofjs.org/logos/watermelon.svg" height="35px" />   
 </p>
 
 :mortar_board: I am graduated in Information Systems, master in education, postgraduate in Project Management PMI (Project Management Institute). 
