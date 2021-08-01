@@ -1,11 +1,14 @@
 ### Hey there 👋
 
-**I'm Rodrigo Gonçalves Santana 👨‍🚀**. I'm a developer websites, mobile apps and APIs. Currently my stack is: 
+**I'm Rodrigo Gonçalves Santana 👨‍🚀**. Currently I'm a mobile developer, Instructor & Content Producer at Rocketseat.
+I also have experience with web and desktop development.
+
+Currently my stack is: 
 
 :computer: Web front-end development with **ReactJs** <br/>
 :iphone: Mobile applications for Android and iOS with **React Native** <br/> 
 :satellite: API with **NodeJs** <br/>
-:floppy_disk: Database: **Postgres**, **Mongo**, **Redis**, **Firebase (Cloud Firestore/Real Time)**, **SQL Server**, **MySQL** <br/>
+:floppy_disk: Database: **Postgres**, **Mongo**, **Redis**, **Firebase (Cloud Firestore/Real Time)**, **SQL Server**, **MySQL**, **WatermelonDB** <br/>
 
 But, I also used it in projects: 
 
