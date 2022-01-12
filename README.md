@@ -3,12 +3,7 @@
 **I'm Rodrigo Gonçalves Santana 👨‍🚀**. Currently I'm a mobile developer, Instructor & Content Producer at Rocketseat.
 I also have experience with web and desktop development.
 
-Currently my stack is: 
-
-:iphone: Mobile applications for Android and iOS with **React Native** <br/> 
-:computer: Web front-end development with **ReactJs** <br/>
-:satellite: API with **NodeJs** <br/>
-:floppy_disk: Database: **Postgres**, **Mongo**, **Redis**, **Firebase (Cloud Firestore/Real Time)**, **SQL Server**, **MySQL**, **WatermelonDB** <br/>
+Currently I'm working with **React Native** to make Mobile applications for Android and iOS.:iphone:
 
 But, I also used it in projects: 
 
@@ -52,10 +47,7 @@ But, I also used it in projects:
 
 :mortar_board: I am graduated in Information Systems, master in education, postgraduate in Project Management PMI (Project Management Institute). 
 
-:memo: I have certifications: Microsoft, Oracle and Autodesk.
-
-
-I also love **UX Design** :heart_eyes:. I like to create beautiful interfaces to provide the user with a great experience. To create prototypes I use **Figma**, but I also know how to work with **Adobe XD** and I use **Photoshop CC** for edit images.
+I also love **UX Design** too :heart_eyes:. I like to create beautiful interfaces to provide the user with a great experience. Currently, to create prototypes I use **Figma**.
 
 
 I have also worked with **C#**, **SQL Server**, **PHP**, **MySQL** and others. I like project architecture, writing clean code and applying good practices. 
