@@ -8,6 +8,9 @@ Currently I'm working with **React Native** to make Mobile applications for Andr
 But, I also used it in projects: 
 
 <p>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+
 <img src="https://image.flaticon.com/icons/png/512/226/226770.png" height="35px"/>
 &nbsp;
 <img src="https://www.freepnglogos.com/uploads/apple-logo-png/apple-logo-icon-transparent-png-svg-vector-3.png" height="35px"/>  
